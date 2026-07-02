@@ -4,15 +4,15 @@ A complete Hospital Management System built with **Java Spring Boot** backend an
 
 ## Features
 
-- ✅ Admin Dashboard 
-- ✅ Doctor Management
-- ✅ Patient Management
-- ✅ Appointment Scheduling
-- ✅ Department Management
-- ✅ Medical Reports
-- ✅ User Authentication (Login/Register)
-- ✅ Role-based Access Control (Admin, Doctor, Patient)
-- ✅ Beautiful and responsive UI
+-  Admin Dashboard 
+-  Doctor Management
+-  Patient Management
+-  Appointment Scheduling
+- Department Management
+- Medical Reports
+-  User Authentication (Login/Register)
+-  Role-based Access Control (Admin, Doctor, Patient)
+-  Beautiful and responsive UI
 
 ## Tech Stack
 
