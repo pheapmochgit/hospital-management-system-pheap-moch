@@ -192,9 +192,6 @@ hospital-system/
 - Delete node_modules and reinstall: `rm -rf node_modules && npm install`
 - Clear npm cache: `npm cache clean --force`
 
-**CORS issues:**
-- The backend is configured to accept requests from `http://localhost:3000`
-
 
 ## Future Enhancements
 - Mobile app version
